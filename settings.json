@@ -1,0 +1,23 @@
+
+"liveshare.connectionMode":"relay",
+"tabnine.experimentalAutoimports:"true,
+"background.enabled": true,
+"background.loop": false,
+"background.useDefault": false,
+"background.useFront": false,
+"background.style": {
+    "background-position": "right",
+    "background-repeat": "no-repeat",
+    "background-size": "cover",
+    "content": "''",
+    "height": "60%",
+    "opacity": 0.5,
+    "pointer-events": "none",
+    "position": "absolute",
+    "right": 0,
+    "width": "35%",
+    "z-index": "99999"
+},
+"background.customImages": [
+    "file:///C:/son goku.png"
+],
